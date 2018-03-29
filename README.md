@@ -18,10 +18,10 @@ A simple **_html_** page where is shown, in a table format, all the record of de
 
   Each register row consists in four fields:
     
-        * Trademark
-        * Model
-        * Reference
-        * Stock (this is actually used to store the repair state as boolean Yes/No )
+   * Trademar
+   * Mode
+   * Reference
+   * Stock (this is actually used to store the repair state as boolean Yes/No )
 
 The **_php_** code do a query and shows a ordered table filled with the data of all the records stored in the database.
 
