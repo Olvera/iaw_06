@@ -18,7 +18,7 @@ A simple **_html_** page where is shown, in a table format, all the record of de
 
   Each register row consists in four fields:
     
-   * Trademar
+   * Trademark
    * Mode
    * Reference
    * Stock (this is actually used to store the repair state as boolean Yes/No )
